@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Assignment4.Data;
-using projects.Models;
+using Assignment4.Models;
 
 namespace Assignment4.Controllers
 {
